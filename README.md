@@ -1,2 +1,15 @@
-# -Core-Neuroscience-Analysis
-Essential open-source tools for EEG/MEG processing, neuroimaging, 3D visualization, and computational neuroscience. Includes gold-standard libraries for electrophysiology, machine learning, and large-scale brain data analysis.
+🔗 1. mne-python
+
+https://github.com/mne-tools/mne-python
+
+🔗 2. nilearn
+
+https://github.com/nilearn/nilearn
+
+🔗 3. napari
+
+https://github.com/napari/napari
+
+🔗 4. BIDS specification
+
+https://github.com/bids-standard/bids-specification
